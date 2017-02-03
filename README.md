@@ -1,18 +1,19 @@
-# STA141b-Project
-# 2017-02-03
+# STA141b-Project: Recent Job Market Analysis
+2017-02-03
 
-# Recent Job Market Analysis
+### Group members: 
+Da Xue, Jiewei Chen
 
-Group members: Da Xue, Jiewei Chen
+### Data source: 
+<li> Aggie Job Link </li>
+<li> www.indeed.com/ </li>
+<li> linkedin </li>
+<p> (restricted to CA, one-day) </p>
 
-# Data source: 
-Aggie Job Link, www.indeed.com/, linkedin
-(restricted to CA)
-
-# What to explore: 
-Job posts across majors
-Salary levels across majors
-Skill requirements
-Degree requirements
-Internship vs full-time position demands
-Company locations that have active job posts
+### What to explore: 
+<li> Job posts across majors </li>
+<li> Salary levels across majors </li>
+<li> Skill requirements </li>
+<li> Degree requirements </li>
+<li> Internship vs full-time position demands </li>
+<li> Company locations that have active job posts </li>
