@@ -19,4 +19,5 @@ Da Xue, Jiewei Chen
 <li> Company locations that have active job posts </li>
 
 
-CJ  edited!!!!! 
+### Log:02/03/2017
+First attemp by using Beautiful Soup
