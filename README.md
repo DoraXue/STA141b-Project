@@ -19,5 +19,8 @@ Da Xue, Jiewei Chen
 <li> Company locations that have active job posts </li>
 
 
-### Log:02/03/2017
+### Log: 02/03/2017
 First attemp by using Beautiful Soup
+
+### Log: 02/06/2017
+Edit project recipe for future discussion with instructors
