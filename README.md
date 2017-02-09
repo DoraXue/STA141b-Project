@@ -24,3 +24,8 @@ First attemp by using Beautiful Soup
 
 ### Log: 02/06/2017
 Edit project recipe for future discussion with instructors
+
+### Log: 02/08/2017
+Together: understand api of indeed
+Jiewei: write function to obtain data from api of indeed
+Da: parse city names of california using beautifulsoup
