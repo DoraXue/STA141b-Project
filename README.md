@@ -27,8 +27,8 @@ Edit project recipe for future discussion with instructors
 
 ### Log: 02/08/2017
 Together: understand api of indeed
-Jiewei: write function to obtain data from api of indeed
-Da: parse city names of california using beautifulsoup
+<br> Jiewei: write function to obtain data from api of indeed
+<br> Da: parse city names of california using beautifulsoup
 
 ### Log: 02/21/2017
 Jiewei: web scraping 5000 job post for "Data Analyst", "CA", "Internship"
