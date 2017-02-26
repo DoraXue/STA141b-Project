@@ -32,3 +32,6 @@ Together: understand api of indeed
 
 ### Log: 02/21/2017 - 02/22/2017
 Jiewei: web scraping 5000 job post for "Data Analyst", "CA", "Internship"
+
+### Log: 02/26/2017
+Jiewei: get **Key words** for further extracting qualification key words
