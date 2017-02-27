@@ -36,7 +36,17 @@ Jiewei: web scraping 5000 job post for "Data Analyst", "CA", "Internship"
 
 ### Log: 02/26/2017
 Jiewei: get **Key words** for further extracting qualification key words
-=======
-Jiewei: write function to obtain data from api of indeed
-Da: parse city names of california using beautifulsoup
+
+### Log: 02/26/2017
+#### Discussion:
+<li> `post_summary` group by company to find companies with most job posts </li>
+<li>  Find a way to denote unsuccessful data parsed </li>
+<li>  Tokenize - bi-gram </li>
+
+#### Question:
+Not able to extract job description for some posts. <a href = "https://www.indeed.com/viewjob?jk=2597a304d86609fc&qd=N2J-naHqk5bSExrJs-uSyH9HAx4PLUCTZQfXawpJOgkOVqMCVMkmCS8enUuplbB-4rYdC8l5t_9_l80gUVoC8ASNtTMq3B26cxHbEL5qrrg1Vu4aS9dH_tvzuwb-B6Jr&atk=1b9hm0f13af35cn0&utm_source=publisher&utm_medium=organic_listings&utm_campaign=affiliate"> One example </a>. The BeautifulSoup object does not contain the `ul` tags.
+
+How to summarize skills?
+
+#### Ultimate goals ( on paper )
 
