@@ -37,6 +37,7 @@ Jiewei: web scraping 5000 job post for "Data Analyst", "CA", "Internship"
 ### Log: 02/26/2017
 Jiewei: get **Key words** for further extracting qualification key words
 
+
 ### Log: 02/26/2017
 #### Discussion:
 <li> `post_summary` group by company to find companies with most job posts </li>
@@ -50,3 +51,6 @@ How to summarize skills?
 
 #### Ultimate goals ( on paper )
 
+
+### Log: 02/28/2017
+Together: get CHE, MSE, STAT job posts
