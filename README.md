@@ -36,7 +36,5 @@ Jiewei: web scraping 5000 job post for "Data Analyst", "CA", "Internship"
 
 ### Log: 02/26/2017
 Jiewei: get **Key words** for further extracting qualification key words
-=======
-Jiewei: write function to obtain data from api of indeed
-Da: parse city names of california using beautifulsoup
+
 
