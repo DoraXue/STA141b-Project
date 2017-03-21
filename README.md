@@ -1,56 +1,10 @@
 # STA141b-Project: Recent Job Market Analysis
-2017-02-03
+Winter 2017 
 
-### Group members: 
-Da Xue, Jiewei Chen
+<p>What is the current demand in the job market? How much money can I make if I major in statistics? What are the most important skills to put into my resume? Where are the hiring companies located? How does the job market differ across different majors? When is the job market largest?…</p>
 
-### Data source: 
-<li> Aggie Job Link </li>
-<li> www.indeed.com/ </li>
-<li> linkedin </li>
-<p> (restricted to CA, one-day) </p>
+<p>These practical questions are faced by new graduates and even younger college students. This project tries its best to help the freshmen to choose the best major; senior and graduate students to draw a big picture of the current job market.</p>
 
-### What to explore: 
-<li> Job posts across majors </li>
-<li> Salary levels across majors </li>
-<li> Skill requirements </li>
-<li> Degree requirements </li>
-<li> Internship vs full-time position demands </li>
-<li> Company locations that have active job posts </li>
+<p>The majority of this project analyzes and compares the job market for the 3 majors of STAT, CHE, and MSE. (Because we are CHE and MSE students considering of pursuing a second degree!)</p>
 
-
-### Log: 02/03/2017
-First attemp by using Beautiful Soup
-
-### Log: 02/06/2017
-Edit project recipe for future discussion with instructors
-
-### Log: 02/08/2017
-Together: understand api of indeed
-
-<br> Jiewei: write function to obtain data from api of indeed
-<br> Da: parse city names of california using beautifulsoup
-
-### Log: 02/21/2017 - 02/22/2017
-Jiewei: web scraping 5000 job post for "Data Analyst", "CA", "Internship"
-
-### Log: 02/26/2017
-Jiewei: get **Key words** for further extracting qualification key words
-
-
-### Log: 02/26/2017
-#### Discussion:
-<li> `post_summary` group by company to find companies with most job posts </li>
-<li>  Find a way to denote unsuccessful data parsed </li>
-<li>  Tokenize - bi-gram </li>
-
-#### Question:
-Not able to extract job description for some posts. <a href = "https://www.indeed.com/viewjob?jk=2597a304d86609fc&qd=N2J-naHqk5bSExrJs-uSyH9HAx4PLUCTZQfXawpJOgkOVqMCVMkmCS8enUuplbB-4rYdC8l5t_9_l80gUVoC8ASNtTMq3B26cxHbEL5qrrg1Vu4aS9dH_tvzuwb-B6Jr&atk=1b9hm0f13af35cn0&utm_source=publisher&utm_medium=organic_listings&utm_campaign=affiliate"> One example </a>. The BeautifulSoup object does not contain the `ul` tags.
-
-How to summarize skills?
-
-#### Ultimate goals ( on paper )
-
-
-### Log: 02/28/2017
-Together: get CHE, MSE, STAT job posts
+<p> To find out the answers, check out [presentation](https://youtu.be/vwKmp3zmiXg) and [website](https://celinechen0211.github.io/JobMarket/jobmarket.html) to know more!!!
