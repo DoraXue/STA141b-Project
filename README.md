@@ -5,7 +5,7 @@ Da Xue<br>
 </div>
 <center>
  <h1>Recent Job Market Analysis</h1>
- <br> STA 141B, Winter 2017
+ <h4> STA 141B, Winter 2017 </h4>
 </center>
 
 
