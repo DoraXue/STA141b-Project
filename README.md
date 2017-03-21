@@ -1,5 +1,5 @@
 <div align = 'right'>
-Team Member
+Team Member<br>
 Jiewei Chen<br>
 Da Xue<br>
 </div>
@@ -8,6 +8,7 @@ Da Xue<br>
  <h4> STA 141B, Winter 2017 </h4>
 </center>
 
+<p></p>
 
 <p>What is the current demand in the job market? How much money can I make if I major in statistics? What are the most important skills to put into my resume? Where are the hiring companies located? How does the job market differ across different majors? When is the job market largest?…</p>
 
