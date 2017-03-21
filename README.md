@@ -1,10 +1,11 @@
 <div align = 'right'>
+Team Member
 Jiewei Chen<br>
 Da Xue<br>
 </div>
 <center>
  <h1>Recent Job Market Analysis</h1>
- <h2> STA141B, Winter 2017 </h2>
+ <br> STA 141B, Winter 2017
 </center>
 
 
