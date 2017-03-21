@@ -9,3 +9,6 @@
 <p>The majority of this project analyzes and compares the job market for the 3 majors of STAT, CHE, and MSE. (Because we are CHE and MSE students considering of pursuing a second degree!)</p>
 
 <p> To find out the answers, check out <a href = 'https://youtu.be/vwKmp3zmiXg')>presentation</a> and <a href = 'https://celinechen0211.github.io/JobMarket/jobmarket.html'>website</a> to know more!!!
+
+
+<img scr = '1-motivation.jpg' width = '500'>
