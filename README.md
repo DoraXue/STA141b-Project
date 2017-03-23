@@ -16,7 +16,7 @@ Da Xue<br>
 
 <p>The majority of this project analyzes and compares the job market for the 3 majors of STAT, CHE, and MSE. (Because we are CHE and MSE students considering of pursuing a second degree!)</p>
 
-<p> To find out the answers, check out our <a href = 'https://youtu.be/vwKmp3zmiXg')><font size = '10'>VIDEO DEMONSTRATION</font></a> and <a href = 'https://celinechen0211.github.io/JobMarket/jobmarket.html'>WEBSITE</a> to know more!!!
+<p> To find out the answers, check out our <a href = 'https://youtu.be/vwKmp3zmiXg')><font size = '10'>video demonstration</font></a> and <a href = 'https://celinechen0211.github.io/JobMarket/jobmarket.html'>website</a> to know more!!!
 
 
 ![alt text](1-motivation.jpg "")
